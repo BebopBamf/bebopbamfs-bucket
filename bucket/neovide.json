@@ -11,7 +11,7 @@
             "Neovide"
         ]
     ],
-    "suggest": [
+    "suggest": {
         "neovim": "main/neovim"
-    ]
+    }
 }
